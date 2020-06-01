@@ -1,0 +1,26 @@
+PODS:
+  - ObjectBox (1.1.1)
+  - Realm (4.1.1):
+    - Realm/Headers (= 4.1.1)
+  - Realm/Headers (4.1.1)
+  - RealmSwift (4.1.1):
+    - Realm (= 4.1.1)
+
+DEPENDENCIES:
+  - ObjectBox
+  - RealmSwift
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - ObjectBox
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  ObjectBox: dd730ea9929a3a6c8d500b2b8924ed92323db85a
+  Realm: 25f0a8244cbb1c2271c922963ea8666fc2d8104d
+  RealmSwift: 9e2657b33764f80e4a4dffd6d440e24715782052
+
+PODFILE CHECKSUM: 3d03881c00fe6ec73aa505331058df07d7ef8c7c
+
+COCOAPODS: 1.8.4
